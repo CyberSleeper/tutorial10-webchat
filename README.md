@@ -5,4 +5,4 @@
 
 ## 3.2: Be Creative!
 ![alt text](image-1.png)
-I add profile different profile picture to differ the users.
+I add profile picture to differ the users.
